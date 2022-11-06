@@ -24,5 +24,8 @@
   "homepage": "https://github.com/505laura/employee-tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^8.2.4"
   }
 }
