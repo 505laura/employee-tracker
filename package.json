@@ -1,0 +1,25 @@
+{
+  "name": "employee-tracker",
+  "version": "0.0.1",
+  "description": "An employee management system for a company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/505laura/employee-tracker.git"
+  },
+  "keywords": [
+    "cms",
+    "employee",
+    "mysql",
+    "inquirer"
+  ],
+  "author": "505laura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/505laura/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/505laura/employee-tracker#readme"
+}
