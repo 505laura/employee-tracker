@@ -15,7 +15,7 @@ It will allow the user to view departments, roles and employees of a company wit
 
 ## Visuals 
 
-[Walkthrough video]()
+[Walkthrough video](https://asciinema.org/a/9eME9odJGmmERoXSy711rBnQs)
 
 ## Usage
 Run `node index.js` and answer the questions as they appear to use this app.
