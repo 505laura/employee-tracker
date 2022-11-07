@@ -24,7 +24,8 @@
   "homepage": "https://github.com/505laura/employee-tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.5",
-    "inquirer-tree-prompt": "^1.1.2"
+    "inquirer-tree-prompt": "^1.1.2",
+    "mysql2": "^2.3.3"
   },
   "devDependencies": {
     "@types/inquirer": "^8.2.4"
