@@ -11,5 +11,5 @@ INSERT INTO roles VALUES
 (1, "Junior Beautician", 20000, 0);
 
 INSERT INTO employees VALUES 
-(0, "Laura", "Brancatisano", 0, null),
-(1, "Hunter", "Brancatisano", 1, 0);
+(0, "John", "Smith", 0, null),
+(1, "Jane", "Doe", 1, 0);
